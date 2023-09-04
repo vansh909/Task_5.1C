@@ -1,0 +1,42 @@
+/* .Container{
+    /* position: relative;
+    left: 100px; */
+    /* margin-left: 100px; */
+
+.heading{
+   
+    position: relative;
+    left: 100px;
+}
+
+.input{
+    position: relative;
+    width: 1405px;
+}
+#text{
+    position: relative;
+    top: 10px;
+}
+.title{
+    margin-left: 10px;
+}
+.problem{
+    margin-top: 30px;
+    /* margin-left: 10px; */
+}
+#prob{
+    position: relative;
+    width: 1405px;
+    height: 400px;
+    /* margin-left: 10px; */
+}
+.form{
+    margin-left: 10px;
+}
+.btn{
+    position: relative;
+    float:right;
+    right:30px; 
+    top: 14px;
+    width:40px;
+}

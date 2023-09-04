@@ -1,0 +1,38 @@
+.input{
+    position: relative;
+    width: 1405px;
+}
+.abst{
+    margin-top: 10px;
+}
+.abst_input{
+    position: relative;
+    width: 1436px;
+    height: 150px;
+}
+.art{
+    margin-top: 10px;
+}
+.art_input{
+    position: relative;
+    width: 1436px;
+    height: 300px;
+}
+.tags{
+    margin-top: 30px;
+}
+.tags_input{
+    position: relative;
+    width: 1380px; 
+}
+.Container{
+    margin-left: 10px;
+}
+
+.btn{
+    position: relative;
+    float:right;
+    right:30px; 
+    top: 14px;
+    width:40px;
+}
